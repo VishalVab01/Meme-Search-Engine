@@ -1,0 +1,39 @@
+# MemeSearch Engine 🔍😂
+
+A meme-tastic search engine that fetches fresh memes using API magic! Built with a bold Neubrutalism design that slaps harder than the "Distracted Boyfriend" meme.
+
+## Features ✨
+- **API-Powered Meme Discovery** - Fresh memes delivered hotter than Twitter trends
+- **Neubrutalism UI** - Ugly-beautiful design that stares into your soul like the "Y U No" guy
+- **Lightning Fast** - Loads faster than you can say "Wait, that's illegal"
+- **Responsive AF** - Works on all devices, unlike your ex
+
+## Tech Stack 💻
+- Frontend: HTML5, CSS3 (with extra `box-shadow: 10px 10px 0 #000`)
+- API: [Your API Name] (Because why reinvent the wheel?)
+- Design: Pure Neubrutalism chaos (100% organic, free-range pixels)
+
+## Why? 🤷
+Because the world needed another way to procrastinate, and regular meme sites were too... subtle.
+
+## Preview 🎨
+![MemeSearch in action](your-preview-url-here) 
+(If this were a meme, the caption would be "When you find the perfect meme but the API returns 404")
+
+## Installation ⚡
+```bash
+git clone https://github.com/VishalVab01/meme-search-engine.git
+cd meme-search-engine
+open index.html # And let the meme magic begin!
+
+Contribution 👯
+PRs welcome! Bonus points if:
+
+Your code is uglier than the "This is Fine" dog
+
+You add more box-shadow than legally allowed
+
+You find an API that serves only Shrek memes
+
+License 📜
+Distributed under the "Do What the Meme You Want" License (DWTMYW)
